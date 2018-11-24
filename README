@@ -1,0 +1,9 @@
+This tool simulates evolutionary process under Yule Model and output the evolutionary tree in Newich format. 
+
+To run the tool, run ./yule.sh
+
+Options:
+Required: -t/-n indicating the end time/number of nodes for simulation
+          -r rate
+          
+Return: Tree in Newick Format
